@@ -14,6 +14,8 @@ The Deep Learning Specialization is a foundational program that will help you un
 ## Courses
 1. [Neural Networks and Deep Learning](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/tree/main/Deep%20Learning%20and%20Neural%20Networks)
 
+      ![alt text](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/blob/main/Certificates/Neural%20Networks%20and%20Deep%20Learning.png)
+
       In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
 
       By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks;   
@@ -21,6 +23,7 @@ The Deep Learning Specialization is a foundational program that will help you un
       
 2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/tree/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
 
+      ![alt text](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/blob/main/Certificates/Improving%20Deep%20Neural%20Networks.png)
       In the second course of the Deep Learning Specialization, you will open the deep learning black box to understand the processes that drive performance and generate good    
       results systematically. 
 
@@ -31,6 +34,7 @@ The Deep Learning Specialization is a foundational program that will help you un
 
 3. [Structuring Machine Learning Projects](https://github.com/chandlerbing65nm/Deep-Learning-Coursera#Courses)
 
+      ![alt text](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/blob/main/Certificates/Structuring%20Machine%20Learning%20Projects.png)
       No labs / programming assignments.
       
       In the third course of the Deep Learning Specialization, you will learn how to build a successful machine learning project and get to practice decision-making as a machine 
@@ -45,6 +49,7 @@ The Deep Learning Specialization is a foundational program that will help you un
       
 4. [Convolutional Neural Networks](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/tree/main/Convolutional%20Neural%20Networks)
 
+      ![alt text](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/blob/main/Certificates/Convolutional%20Neural%20Networks.png)
       In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as 
       autonomous driving, face recognition, reading radiology images, and more.
 
@@ -53,6 +58,7 @@ The Deep Learning Specialization is a foundational program that will help you un
       
 5. [Sequence Models](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/tree/main/Sequence%20Models)
 
+      ![alt text](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/blob/main/Certificates/Sequence%20Models.png)
       In the fifth course of the Deep Learning Specialization, you will become familiar with sequence models and their exciting applications such as speech recognition, music 
       synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
 
