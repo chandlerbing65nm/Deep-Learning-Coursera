@@ -4,7 +4,7 @@ My notes / works from Coursera courses.
 ## Contents
 * [Introduction](https://github.com/chandlerbing65nm/Deep-Learning-Coursera#Introduction)
 * [Courses](https://github.com/chandlerbing65nm/Deep-Learning-Coursera#Courses)
-* [License](https://github.com/chandlerbing65nm/Deep-Learning-Coursera#Copyright/License)
+* [License](https://github.com/chandlerbing65nm/Deep-Learning-Coursera#License)
 
 ## Introduction
 This repository contains my solutions for labs and programming assignments on Coursera courses. Certain resources required by the codes may be lacking due to limitations on downloading course materials from Coursera and uploading them to GitHub. The lacking resources are mostly datasets, pre-trained models or certain weight matrices.
@@ -60,5 +60,5 @@ The Deep Learning Specialization is a foundational program that will help you un
       Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as 
       NER and Question Answering.
        
-## Copyright/License
+## License
 Licensed under the [MIT License](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/blob/main/LICENSE)
